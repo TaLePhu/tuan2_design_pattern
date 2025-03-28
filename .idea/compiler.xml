@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="state_demo" />
+        <module name="observer_baitap" />
         <module name="strategy_demo" />
       </profile>
     </annotationProcessing>
